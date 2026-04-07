@@ -1,7 +1,12 @@
 aid: regency-energy-partners
-url: https://raw.githubusercontent.com/api-evangelist/regency-energy-partners/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/regency-energy-partners/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.regency-energy-partners.com
+description: >-
+  Regency Energy Partners was a midstream natural gas master limited partnership engaged
+  in the gathering, processing, contract compression, treating, and transportation
+  of natural gas before being acquired by Energy Transfer.
