@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "energy": "https://api-evangelist.github.io/regency-energy-partners/vocab#",
+    "id": "@id",
+    "type": "@type",
+    "Organization": "schema:Organization",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "GatheringSystem": {
+      "@id": "energy:GatheringSystem",
+      "@type": "schema:Thing"
+    },
+    "ProcessingPlant": {
+      "@id": "energy:ProcessingPlant",
+      "@type": "schema:Thing"
+    },
+    "Pipeline": {
+      "@id": "energy:Pipeline",
+      "@type": "schema:Thing"
+    },
+    "capacity": "energy:capacity",
+    "throughput": "energy:throughput",
+    "basin": "energy:basin",
+    "state": "schema:addressRegion",
+    "commodityType": "energy:commodityType",
+    "serviceType": "energy:serviceType",
+    "Contract": {
+      "@id": "energy:Contract",
+      "@type": "schema:Agreement"
+    },
+    "feeStructure": "energy:feeStructure",
+    "volumeCommitment": "energy:volumeCommitment",
+    "term": "energy:contractTerm",
+    "NGL": {
+      "@id": "energy:NaturalGasLiquid",
+      "@type": "schema:Thing"
+    },
+    "component": "energy:nglComponent",
+    "price": "schema:price"
+  }
+}

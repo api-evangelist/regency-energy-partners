@@ -1,0 +1,134 @@
+vocabulary:
+  name: Regency Energy Partners Vocabulary
+  description: >-
+    Domain vocabulary for Regency Energy Partners LP, a midstream natural gas
+    master limited partnership engaged in gathering, processing, compression,
+    treating, and transportation of natural gas, crude oil, and natural gas
+    liquids. Regency operated in North Louisiana, West Texas, and the
+    Mid-Continent region until its acquisition by Energy Transfer Partners in 2015.
+  version: 1.0.0
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  source: https://ir.energytransfer.com
+
+terms:
+  - term: Master Limited Partnership (MLP)
+    definition: >-
+      A publicly traded limited partnership structure common in the US midstream
+      energy sector. MLPs combine the tax benefits of a partnership (pass-through
+      taxation) with the liquidity of publicly traded securities. Regency traded
+      on the NYSE under the ticker RGP.
+    tags:
+      - Corporate Structure
+      - Finance
+
+  - term: Midstream
+    definition: >-
+      The segment of the oil and gas value chain between upstream production and
+      downstream refining/distribution. Midstream activities include gathering,
+      processing, treating, compression, transportation, and storage of natural
+      gas, crude oil, and NGLs.
+    tags:
+      - Industry Segment
+      - Core Business
+
+  - term: Gathering
+    definition: >-
+      The collection of natural gas or crude oil from multiple wellhead locations
+      via a network of smaller diameter pipelines into a central facility for
+      processing or further transportation.
+    tags:
+      - Operations
+      - Infrastructure
+
+  - term: Processing
+    definition: >-
+      The treatment of raw natural gas to remove impurities and separate natural
+      gas liquids (NGLs) from the methane stream. Processing plants produce
+      pipeline-quality residue gas and NGL streams including ethane, propane,
+      butane, and natural gasoline.
+    tags:
+      - Operations
+      - Infrastructure
+
+  - term: Natural Gas Liquids (NGLs)
+    definition: >-
+      Hydrocarbon components separated from natural gas during processing that
+      remain liquid at surface pressure. NGLs include ethane (C2), propane (C3),
+      isobutane (iC4), normal butane (nC4), and natural gasoline (C5+).
+    tags:
+      - Commodity
+      - Products
+
+  - term: Compression
+    definition: >-
+      The mechanical process of increasing natural gas pressure to move it through
+      gathering pipelines and transmission lines. Regency provided contract
+      compression services as a core business segment.
+    tags:
+      - Operations
+      - Service
+
+  - term: Treating
+    definition: >-
+      The removal of contaminants from natural gas streams including carbon dioxide
+      (CO2), hydrogen sulfide (H2S), and water vapor to meet pipeline quality
+      specifications.
+    tags:
+      - Operations
+      - Quality
+
+  - term: Residue Gas
+    definition: >-
+      The methane-rich gas remaining after NGLs have been extracted during
+      processing. Residue gas meets pipeline quality specifications and is
+      typically sold to natural gas marketers or utilities.
+    tags:
+      - Product
+      - Gas
+
+  - term: Throughput
+    definition: >-
+      A key performance metric for midstream MLPs measuring the volume of
+      gas or liquids processed or transported per unit of time, typically
+      expressed in MMcf/d (million cubic feet per day) for gas or Bbls/d
+      (barrels per day) for liquids.
+    tags:
+      - Metric
+      - Operations
+
+  - term: Gathering and Processing Agreement (G&P)
+    definition: >-
+      A long-term contract between a midstream operator and an upstream producer
+      governing the terms under which the midstream company will gather and
+      process the producer's gas, including fee structures and volume commitments.
+    tags:
+      - Contract
+      - Commercial
+
+  - term: Fee-Based Revenue
+    definition: >-
+      Revenue earned from fixed per-unit fees for gathering, compression, or
+      processing services regardless of commodity prices, providing more
+      predictable cash flows than commodity-sensitive contracts.
+    tags:
+      - Finance
+      - Revenue Model
+
+  - term: Energy Transfer
+    definition: >-
+      The Dallas-based midstream MLP that acquired Regency Energy Partners in
+      2015 for approximately $11 billion in an all-unit transaction, merging
+      Regency's assets into Energy Transfer Partners' broader midstream network.
+    tags:
+      - Corporate
+      - History
+
+  - term: Permian Basin
+    definition: >-
+      A major oil and gas producing region in West Texas and southeastern New
+      Mexico where Regency held significant gathering and processing assets
+      following its acquisition of PVR Partners in 2014.
+    tags:
+      - Geography
+      - Operations
