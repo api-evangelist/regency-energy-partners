@@ -11,6 +11,8 @@ description: >-
   broader midstream operations.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/regency-energy-partners-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/regency-energy-partners-lp
   - type: Website
