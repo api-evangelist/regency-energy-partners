@@ -1,3 +1,4 @@
+name: Regency Energy Partners
 aid: regency-energy-partners
 deliveryModel:
   model: unknown
@@ -22,6 +23,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.regencyenergy.com', status: 301, note: 'declared website redirects to https://www.energytransfer.com/ — a different registrable domain (regencyenergy.com -> energytransfer.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/regency-energy-partners.png
 url: https://raw.githubusercontent.com/api-evangelist/regency-energy-partners/refs/heads/main/apis.yml
 modified: '2026-05-02'
