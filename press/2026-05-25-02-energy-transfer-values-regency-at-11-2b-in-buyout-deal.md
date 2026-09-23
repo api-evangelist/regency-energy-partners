@@ -1,7 +1,9 @@
 ---
 title: Energy Transfer Values Regency At $11.2B In Buyout Deal
 url: https://www.law360.com/articles/614859/energy-transfer-values-regency-at-11-2b-in-buyout-deal
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Regency Energy Partners" press release artificial intelligence'
 position: 2
 source: serpapi-google

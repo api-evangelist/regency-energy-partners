@@ -1,7 +1,9 @@
 ---
 title: Merger with Energy Transfer Partners, LP | Experience
 url: https://www.bakerbotts.com/en/experience/r/regency-energy-partners-lp--merger-with
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Regency Energy Partners" press release artificial intelligence'
 position: 1
 source: serpapi-google

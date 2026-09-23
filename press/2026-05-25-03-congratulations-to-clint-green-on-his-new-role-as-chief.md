@@ -1,7 +1,9 @@
 ---
 title: Congratulations to Clint Green on his new role as Chief ...
 url: https://www.facebook.com/EnergyTransferFacts/posts/congratulations-to-clint-green-on-his-new-role-as-chief-executive-officer-at-usa/938561131646612/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Regency Energy Partners" press release artificial intelligence'
 position: 3
 source: serpapi-google
