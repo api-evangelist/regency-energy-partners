@@ -64,3 +64,9 @@ tags_raw:
   - Oil And Gas
   - Pipeline
   - Gathering And Processing
+x-status: acquired
+x-acquired-by: energy-transfer
+x-parent: energy-transfer
+x-acquired-date: '2015-04'
+x-status-source: "https://regencyenergy.com/"
+x-status-evidence: "regencyenergy.com redirects to www.energytransfer.com (probed 2026-10-03); Regency merged into Energy Transfer Partners in 2015 (roadmap#812)"
